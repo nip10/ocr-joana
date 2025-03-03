@@ -43,7 +43,7 @@ The project already includes an `imgs` folder (maintained with a `.gitkeep` file
 Run the script with:
 
 ```bash
-node ocr-processor.js
+npm start
 ```
 
 The script will:
